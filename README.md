@@ -1,6 +1,8 @@
 # TECH3500-FinalRepo
 Final Repository for TECH3500
 
+##Nick Narcisse
+
 ##Project 1: Personalized Portfolio
 - http://eve.kean.edu/~narcissn/TECH3500/Project1.html
 - <b>Description:</b> A personalized website containing information regarding me and my academics, as well as links to my github and linkedin
