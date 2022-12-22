@@ -1,7 +1,7 @@
 # TECH3500-FinalRepo
 Final Repository for TECH3500
 
-##Nick Narcisse
+## Nick Narcisse
 
 ## Project 1: Personalized Portfolio
 - https://github.com/Pt-luck/Self-Made-Portfolio
